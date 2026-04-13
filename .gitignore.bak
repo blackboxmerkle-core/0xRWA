@@ -1,0 +1,7 @@
+#folders 
+.claude
+node_modules
+nodemodules
+artifacts
+**.claude**
+**node_modules**
